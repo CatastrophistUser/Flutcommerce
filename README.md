@@ -14,9 +14,4 @@ You can run this project using the following command in the project directory (p
  ### `flutter run`
 
 
-### Screenshot
-
-![flutcommerce](https://github.com/CatastrophistUser/Flutcommerce/assets/93388196/e81b8ca6-c570-4a9b-a1fd-274912aec799)
-
-
 Inspired by : [The Flutter Way](https://www.youtube.com/watch?v=XBKzpTz65Io)
